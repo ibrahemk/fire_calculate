@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fire Calculator</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="area">Area (m<sup><small>2</small></sup>) :</string>
+    <string name="co2">Co<sup><small>2</small></sup> by KG :</string>
+</resources>
